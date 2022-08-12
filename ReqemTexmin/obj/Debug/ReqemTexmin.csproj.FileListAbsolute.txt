@@ -1,0 +1,7 @@
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\bin\Debug\ReqemTexmin.exe.config
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\bin\Debug\ReqemTexmin.exe
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\bin\Debug\ReqemTexmin.pdb
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\obj\Debug\ReqemTexmin.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\obj\Debug\ReqemTexmin.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\obj\Debug\ReqemTexmin.exe
+C:\Users\Gamer\Desktop\ReqemTexmin\ReqemTexmin\obj\Debug\ReqemTexmin.pdb
